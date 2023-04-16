@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on react js and node js
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning gcp
 - 👯 I’m looking to collaborate on  open source projects
 - 📫 How to reach me: nalbandsalauddin@gmail.com
 - I am always availble solve any tech issues you can reach on that email
