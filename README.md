@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on react js and node js ans aws
+- 🔭 I’m currently working on react js and node js and aws
 - 🌱 I’m currently learning gcp
 - 👯 I’m looking to collaborate on  open source projects
 - 📫 How to reach me: nalbandsalauddin@gmail.com
