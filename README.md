@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Salauddin
 
-**Senior Software & AI Engineer**
 
 I build scalable software, AI integrations, and cloud infrastructure. With 10+ years of experience, I focus on clean code and high-impact solutions.
 
