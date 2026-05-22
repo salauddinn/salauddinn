@@ -14,5 +14,5 @@ I build scalable software, AI integrations, and cloud infrastructure. With 10+ y
 - **[Finance Calculator](https://github.com/salauddinn/finance-calculator)** — Type-safe financial utility.
 
 ### 📫 Connect
-[Portfolio](https://salauddinn.in/) | [Email](mailto:salauddin.work@gmail.com)
+[Email](mailto:salauddin.work@gmail.com)
 
