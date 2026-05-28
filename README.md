@@ -9,9 +9,10 @@ I build scalable software, AI integrations, and cloud infrastructure. With 10+ y
 - **Web & Cloud:** React, Node.js, Next.js, AWS
 
 ### 🚀 Projects
-- **[Game Theory Lab](https://github.com/salauddinn/game-theory-lab)** — Interactive simulation lab for strategy and decision-making.
-- **[Expense Manager AI](https://github.com/salauddinn/expense-manager-ai)** — AI-powered expense tracking.
-- **[Finance Calculator](https://github.com/salauddinn/finance-calculator)** — Type-safe financial utility.
+- **[LimitLens](https://github.com/salauddinn/limitlens)** — Unified Python CLI & iTerm2 widget to monitor AI subscriptions and quota rate limits in one place.
+- **[India Money Toolkit](https://github.com/salauddinn/India-money-toolkit)** — Privacy-first, type-safe financial calculators for SIP, FD, EMI, taxes, and salary planning.
+- **[Expense Manager AI](https://github.com/salauddinn/expense-manager-ai)** — AI-powered expense tracking application utilizing natural language processing.
+- **[Game Theory Lab](https://github.com/salauddinn/game-theory-lab)** — Interactive simulation lab for exploring strategic scenarios and game theory models.
 
 ### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/salauddinn/)
